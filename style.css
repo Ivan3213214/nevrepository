@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: #87CEFA;
+    border-radius: 20px;
+}
+h1{
+    color: blue;
+    ;
+}
+
+footer {
+    background-color: gray;
+    padding-top: 2px;
+}
+
+footer p{
+    background-color: white;
+    border: 2px solid gray;
+    border-radius: 0px;
+}
+
+.box {
+    background-color: green;
+    border-radius: 10px;
+}
+.b{
+    color: blue;
+}
